@@ -23,5 +23,5 @@ Rently is a rental property listing application that allows users to register as
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/rently.git
+   git clone https://github.com/dipin24/dev-rently.git
    cd rently
